@@ -1,8 +1,8 @@
 /* Autor: Hecho por Juan David Roa Valencia y Jhonatan David Vanegas Arrieta
  * Fecha de creación: 22/09/14
- * Versión: 0.64
+ * Versión: 0.6
  * 
- * Nombre del archivo: Criptografia
+ * Nombre del archivo: Criptografia.cpp
  * Responsabilidad: 
  * Colaboración: 
 

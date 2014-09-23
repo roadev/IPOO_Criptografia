@@ -1,6 +1,6 @@
 /* Autor: Hecho por Juan David Roa Valencia y Jhonatan David Vanegas Arrieta
- * Fecha de creación: 02/09/14
- * Versión: 0.57
+ * Fecha de creación: 22/09/14
+ * Versión: 0.6
  * 
  * Nombre del archivo: main.cpp
  * Responsabilidad: 
@@ -23,11 +23,11 @@ int main()
 		cripto.setNumero(valor);
 		cripto.verificarNumero();
 		cout <<"Muestra el valor encriptado para "<<valor<<" es: "<< cripto.getLetra() <<endl;
-		cout <<"Desea evaluar una nueva contraseña S o N:";
+		cout <<"¿Desea evaluar una nueva contraseña? Escriba: S para sí o N para no: "<<endl;
 		cin >> confirmacion;
 		cripto.setVariableConfirmacion(confirmacion);
 	}
-	cout <<"Gracias por Venir ;)";
+	cout <<"¡ Gracias por Venir ;) !";
 
 	
 }

@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux-x86
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
-CND_ARTIFACT_NAME_Debug=criptografia
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/criptografia
+CND_ARTIFACT_NAME_Debug=ipoo_criptografia
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/ipoo_criptografia
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Debug=criptografia.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/criptografia.tar
+CND_PACKAGE_NAME_Debug=ipoocriptografia.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/ipoocriptografia.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux-x86
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
-CND_ARTIFACT_NAME_Release=criptografia
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/criptografia
+CND_ARTIFACT_NAME_Release=ipoo_criptografia
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/ipoo_criptografia
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Release=criptografia.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/criptografia.tar
+CND_PACKAGE_NAME_Release=ipoocriptografia.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/ipoocriptografia.tar
 #
 # include compiler specific variables
 #
