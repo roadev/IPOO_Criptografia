@@ -18,7 +18,7 @@ int main()
 	cout <<"Bienvenido :)" <<endl;
 	while(cripto.getVariableConfirmacion() == "S" || cripto.getVariableConfirmacion()  == "s")
 	{
-		cout <<"Ingrese un número del 1 al 10: ";
+		cout <<"Ingrese un número del 0 al 9: ";
 		cin >> valor;
 		cripto.setNumero(valor);
 		cripto.verificarNumero();
@@ -28,6 +28,5 @@ int main()
 		cripto.setVariableConfirmacion(confirmacion);
 	}
 	cout <<"¡ Gracias por Venir ;) !";
-
 	
 }
